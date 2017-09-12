@@ -1,0 +1,7 @@
+{
+    "name": "root/selenium",
+    "type": "project",
+    "require": {
+        "facebook/webdriver": "^1.4"
+    }
+}
